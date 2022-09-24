@@ -1,0 +1,10 @@
+$ git clone https://github.com/HoneyMushrooms/kinomonster.git
+
+### Для пуша ###
+$ git add -A
+$ git commit -m "comment"
+$ git push
+################
+
+### Для обновления ###
+$ git pull
